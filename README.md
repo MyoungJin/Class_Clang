@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 이곳을 통한 C언어 학습을 원하는 분들을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/MyoungJin/Class_Clang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+C언어 학습을 위한 예제 중심으로 운영될 예정이기 때문에 PDF 강의 파일도 제공될 예정입니다.
+더좋은 예제가 있는 경우에는 추가적으로 저한테 제공해줄 수도 있습니다.
+그럼, 좋은 결과가 있기를 바라겠습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 배우는 내용 및 과정
+1. 정보단위, 자료구조, 컴파일러
+2. 전처리기, 식별자, 변수
+3. 자료 유형, 입출력
+4. 연산자
+5. 조건문, 반복문
+6. 함수, 라이브러리
+7. 배열
+8. 중간시험
+9. 포인터 기초: 포인터 개념, 배열에서의 포인터 이용, 함수에서의 배열 이용
+10. 포인터 중급: 다중 포인터, 포인터 배열, 배열 포인터
+11. 포인터 고급: 배열 포인터, 함수 포인터
+12. 포인터 응용, 문자열
+13. 문자열
+14. 구조체, 공용체, 열거형
+15. 파일 처리
+16. 기말시험
 
-### Markdown
+### 과제 및 실습
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+대학에서 제 과목을 수강하는 학생들은 이곳을 통해서 추가적으로 프로젝트를 추가하고 활동할 수 있습니다.
 
-```markdown
-Syntax highlighted code block
+### 도산의 말씀
+**흔히 사람들은 기회를 기다리고 있지만, 기회를 기다리는 사람에게는 잡히지 않는 법이다.** 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MyoungJin/Class_Clang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**_우리는 기회를 기다리는 사람이 되기 전에, 기회를 얻을 수 있는 실력을 갖춰야 한다._**
